@@ -1,4 +1,4 @@
-Project Name : Pneumonia detection fro CHest X-Rays.
+Project Name : Pneumonia detection fro Chest X-Rays.
 A small Computer Vision Project.
 Convolutional Neural Network has been used to predict the outcome.
 Model contains 20 epochs to get trained. (Achieves 100% accuracy around 13 epochs)
